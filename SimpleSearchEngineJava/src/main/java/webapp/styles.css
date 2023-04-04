@@ -20,3 +20,10 @@ body{
    display: inline-block;
    margin: auto;
 }
+
+body {
+   background-image: url('Background.jpg');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+     background-size: 100% 100%;
+ }
