@@ -7,7 +7,7 @@
 <body>
      <h1>Simple Search Engine</h1>
      <form action="Search">
-             <input type="text" name="keyword">
+             <input type="text" placeholder="It's searched history, enter text please" name="keyword">
              <button type="submit">Search</button>
      </form>
      <form action ="History">
