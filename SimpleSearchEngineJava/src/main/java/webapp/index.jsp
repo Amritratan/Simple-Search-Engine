@@ -7,7 +7,7 @@
      <img src="google_logo.svg" alt=""  width="540" height="90" />
      <img src="Google.gif" alt=""  width="540" height="90" />
     <form action="Search">
-        <input type="text" name="keyword">
+        <input type="text" placeholder="Search..." name="keyword">
         <button type="submit">Search</button>
    </form>
    <form action ="History">
