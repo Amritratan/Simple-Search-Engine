@@ -5,9 +5,9 @@
      <link rel= "stylesheet" type = "text/css" href = "styles.css">
 </head>
 <body>
-    <h1>Simple Search Engine</h1>
+    <h1><input type="image" src="google_logo.svg" /></h1>
     <form action="Search">
-             <input type="text" name="keyword">
+             <input type="text" placeholder="Searched history " name="keyword">
              <button type="submit">Search</button>
     </form>
     <table border = 2 class="resultTable">
